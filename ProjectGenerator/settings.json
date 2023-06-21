@@ -1,0 +1,43 @@
+﻿{
+  "ProjectName": "DefaultProjectName",
+  "DotnetVersion": "6.0",
+  "BuildToolProjectPath": "D:\\ProjectGenerator\\ProjectGenerator\\ProjectGenerator.csproj",
+  "PackageName": "CoffeeShop",
+  "PackageVersion": "1.0.0",
+  "ProductName": "coffee_shop_backend",
+  "PackageReferce": [
+    {
+      "Include": "Bootstrap.v3.Datetimepicker",
+      "Version": "4.17.49"
+    },
+    {
+      "Include": "Bootstrap.v3.Datetimepicker.CSS",
+      "Version": "4.17.49"
+    },
+    {
+      "Include": "Dapper",
+      "Version": "2.0.123"
+    }
+  ]
+}
+
+
+/*
+        "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.15",
+      "Microsoft.AspNetCore.Authentication.OpenIdConnect": "6.0.16",
+      "Microsoft.AspNetCore.DataProtection.Abstractions": "7.0.2",
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "6.0.16",
+      "Microsoft.AspNetCore.Mvc.Versioning": "5.0.0",
+      "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.0.0",
+      "Microsoft.Data.SqlClient": "5.1.1",
+      "Microsoft.EntityFrameworkCore": "6.0.13",
+      "Microsoft.EntityFrameworkCore.Design": "6.0.13",
+      "Microsoft.EntityFrameworkCore.SqlServer": "6.0.13",
+      "Microsoft.EntityFrameworkCore.Tools": "6.0.13",
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.13",
+      "NPOI": "2.6.0",
+      "Serilog.AspNetCore": "6.1.0",
+      "Swashbuckle.AspNetCore": "6.3.0",
+      "System.Data.SqlClient": "4.8.5"
+
+*/
